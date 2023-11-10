@@ -33,7 +33,7 @@ def main():
 
     # print(f"Olutvarasto: {olutta}")
     # print("olutta.lisaa_varastoon(1000.0)")
-    olutta.lisaa_varastoon(1000.0)
+    olutta.lisaa_varastoon(1000.0)s
     # print(f"Olutvarasto: {olutta}")
 
     # print(f"Mehuvarasto: {mehua}")
